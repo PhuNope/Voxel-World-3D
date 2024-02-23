@@ -13,5 +13,6 @@ public enum BlockType {
     TreeTrunk,
     TreeLeafesTransparent,
     TreeLeafsSolid,
+    Water,
     Sand
 }
